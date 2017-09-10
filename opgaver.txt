@@ -1,0 +1,38 @@
+Inden timen viser læreren, hvordan man laver halvlinjer i GeoGebra.
+Inden timen forklarer læreren også, hvordan man opstiller forskriften for en linje gennem givet punkt og med given hældning.
+Inden timer forklarer læreren også, at et punkt på en graf kan skrives som (x, f(x)). Og at man skal udregne f(x) først.
+
+
+
+
+I disse opgaver betragter vi en simpel model af Cookie Clicker spillet, hvor der ikke er "upgrades" og "achievements".
+
+På siden http://cookieclicker.wikia.com/wiki/Buildings kan I se pris og cps på de enkelte bygninger. De vigtigste oplysninger er her:
+
+Bygning  | cps    |   pris  | pris/cps
+Cursor   |   0,1  |     15  |  150
+Grandma  |   1    |    100  |  100
+Farm     |   8    |   1100  |  137,5
+Mine     |  47    |  12000  |  255,3
+Factory  | 260    | 130000  |  500
+
+Hver gang man køber en ting, så stiger prisen på den næste med 15 %.
+
+På et tidspunkt (x=0) har vi optjent 100 cookies og vi ejer 5 Grandma's og tjener derfor 5 cps (cookies per sekund).
+
+a) Lad x være antal sekunder fra dette øjeblik, og angiv en forskrift f(x) for antallet af cookies som funktion af tiden. Tegn også funktionen i GeoGebra, og marker punktet (0, 100).
+b) Hvis vi ikke gør noget de næste 2 minutter, hvor mange cookies når vi så op på?
+c) Hvor lang tid skal vi vente, før vi har råd til en Farm (pris: 1100 cookies)?
+d) Vi faldt lidt i søvn, så til tiden x=400 køber vi en Farm. Hvor mange penge har vi tilbage efter købet? Hvad bliver prisen på en ny Farm?
+e) Hvad er vores cps nu?
+f) Vis, at forskriften for antal cookies nu kan skrives som g(x) = 13x - 4200. Tegn også funktionen g(x) i GeoGebra, og marker punkterne (400, f(400)) og (400, g(400)).
+g) Nu venter vi noget tid, indtil x=10000, uden at købe mere. Hvor mange cookies har vi til det tidspunkt? Marker punktet (10000, g(10000)) i GeoGebra.
+h) Hvor mange cookies mangler vi, for at få råd til et Factory?
+i) Hvis vi ikke køber flere ting, hvornår har vi så råd til et Factory?
+Nu sætter vi et mål om hurtigst muligt herefter at få købt et Factory, og overvejer forskellige strategier.
+j) Første strategi er at købe én Grandma, og så vente. Vis, at forskriften for den nye funktion er h(x) = 14x - 14402, x>=10000.
+k) Anden strategi er i stedet for at købe én Farm, og så vente. Vis, at forskriften for den nye funktion er i(x) = 21x - 85465, x>=10000.
+l) Tredie strategi er i stedet for at købe én Mine, og så vente. Hvad bliver forskriften for den nye funktion j(x)?
+m) Hvilken af de tre strategier giver hurtigst råd til et Factory?
+l) Tredie strategi er i stedet for at købe én Mine, og så vente. Hvad bliver forskriften for den nye funktion j(x)?
+m) Hvilken af de tre strategier giver hurtigst råd til et Factory?
